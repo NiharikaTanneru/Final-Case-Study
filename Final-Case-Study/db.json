@@ -1,0 +1,64 @@
+{
+  "contactData": {
+    "address": "123 Park Avenue C, AK Marg, Delhi, India",
+    "phone": "(91) 987 654 3210",
+    "phone1": "(91) 987 654 3211",
+    "email": "contact@topjobs.com"
+  },
+  "JobLists": [
+    {
+      "id": 101,
+      "desg": "Sales Manger",
+      "company": "SRG International",
+      "exp": "5-8 Yrs",
+      "salary": "Not disclosed",
+      "location": "Faridabad"
+    },
+    {
+      "id": 102,
+      "desg": "Accounts Officer-Banking",
+      "company": "KAYPEEFOOD PRODUCTS",
+      "exp": "4-9 Yrs",
+      "salary": "2,75,000-4,00,000 PA.",
+      "location": "Gwalior"
+    },
+    {
+      "id": 103,
+      "desg": "SAP FICO Consultant",
+      "company": "Bhavana Balkrishna Govekar",
+      "exp": "10-15 Yrs",
+      "salary": "10,00,000 - 12,00,000 PA>",
+      "location": "Mumbai"
+    },
+    {
+      "id": 104,
+      "desg": "Assistant Manger-PLM",
+      "company": "Indigo Airlines",
+      "exp": "1-6 Yrs",
+      "salary": "Not disclosed",
+      "location": "remote"
+    },
+    {
+      "id": 105,
+      "desg": "Web Logic Portal",
+      "company": "ezProHub LLC",
+      "exp": "2-5 Yrs",
+      "salary": "Not disclosed",
+      "location": "Coimbatore"
+    },
+    {
+      "id": 106,
+      "desg": "Account Executive",
+      "company": "Hightech Information Fast Services",
+      "exp": "4-6 Yrs",
+      "salary": "3,00,000 - 5,00,000 PA.",
+      "location": "Pune(shukravar Peth)"
+    }
+  ],
+  "messages": [
+    
+  ],
+  "applications": [
+    
+  ]
+}
